@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །བྱང་ཆུབ་ལྟུང་བཤགས་ཀྱི་དོན་གྱི་འགྲེལ་ཟིན་བདུད་རྩིའི་ཆུ་རྒྱུན་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ངེས་དོན་བསྟན་འཛིན།
+  sku: LEK-PHI-107
+  layers:
+  - book_title
+  - author
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: A Stream of Nectar:A Note on the Sutra of Three Heaps
+    bo: བྱང་ཆུབ་ལྟུང་བཤགས་ཀྱི་དོན་གྱི་འགྲེལ་ཟིན་བདུད་རྩིའི་ཆུ་རྒྱུན་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 107
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༡༠༧
+  author:
+    en: Ngedon Tenzin
+    bo: ངེས་དོན་བསྟན་འཛིན།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-107
+  category:
+    en: Uncategorized
+    bo: སྡེ་ཚན་མེད་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-107.epub
+  description:
+    en: ''
+    bo: ''
