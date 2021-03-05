@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000096
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བྱང་ཆུབ་ལྟུང་བཤགས་ཀྱི་དོན་གྱི་འགྲེལ་ཟིན་བདུད་རྩིའི་ཆུ་རྒྱུན་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ངེས་དོན་བསྟན་འཛིན།
-  sku: LEK-PHI-107
   layers:
   - book_title
   - author
   - quotation
   - sabche
   - yigchung
+  id: LEK-PHI-107
 web_metadata:
   title:
     en: A Stream of Nectar:A Note on the Sutra of Three Heaps
